@@ -4,7 +4,7 @@ David D. de Best, 2023.
 
 This C program implements a method of approximating the maximum weight matching (MWM) for general graphs
 via positive-gain k-augmentations using the GraphBLAS standard.
-It is the companion for the master thesis 'Approximating the maximum weight matching problem using the 
+It is the companion for the master thesis 'A 3/4-approximation of the maximum weight matching problem using the 
 GraphBLAS standard', David D. de Best, supervised by prof. dr. Rob H. Bisseling, Utrecht University, 2023.
 
 For an in-depth explanation of the procedures implemented, please see the thesis and provided comments 
